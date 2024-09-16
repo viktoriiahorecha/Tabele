@@ -1,0 +1,20 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: rgb(183, 169, 239);
+    color: white;
+}
+table, th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+td:hover {
+    background-color:  rgb(134, 110, 230);
+    color:white;
+ }
+ th:hover {
+    background-color:  rgb(214, 205, 250);
+    color:white;
+ }
